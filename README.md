@@ -15,4 +15,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 6. Create the stylesheet/ css file within the css folder.
 7. Create the link tag, from the stylesheet in the css folder to the html file/ project.
 8. Save and commit. The project folder should be set up to begin the build.
-
+9. Create a 'new' title for the landing page. 
+10. Import all the images that we are being requested for use within the design of the landing page.
+11. Let's begin the project build, start with the: 
+12. Create the opening content for the web page. Start with the navbar.

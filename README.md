@@ -28,4 +28,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 19. Create further styling for the navbar using the psuedo class selector to give the page minimal interaction at this time.
 20. Set the navbar within another div container, create the class for the element.
 21. Create furthert styling with the navabar to both center the content in the navigation and as well make the page (semi-responsive).
-22. 
+22. Create the section for the jumbotron/ hero. Create the format within the html file.
+23. Set the styles for the jumbotron. Start with the styles for the h1 and the container holding the content.
+24. Create further styles for the jumbotron section. Create basic style selectors for the jumbotron and apply psuedo selectors.
+25. Test and run all the code that we have created for this section. Save all changes.

@@ -9,4 +9,6 @@ This project will be created to be a mock-up for a hotel landing page. This page
 
 1. Start with creating the readme file and documenting the description for the project build.
 2. Create the html file for the project build. Set up the html file, boilerplate.
-3. 
+3. Create the folder to hold all the assets for the project build. 
+4. Create the css folder within the assets folder to hold our stylesheets.
+5. Create the images folder within the assets folder to hold all the images for the project.

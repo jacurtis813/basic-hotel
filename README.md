@@ -37,3 +37,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 28. Create a new section element to hold the content for the hotel-info within the index.html/ or main page.
 29. Set up all the styles for the background classes that we have set up within the html file and set future classes now as well.
 30. Complete the styles for the jumbotron section. Save all changes. Test and run the code that we have created.
+31. Create the section to hold the content for the 3 seperate columns of content on the main landing page.
+32. Set up the html file. Begin creating styles for the features section. Style each of the columns.
+33. Test and run the current code that we have created for the features section.
+34. 

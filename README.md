@@ -18,4 +18,8 @@ This project will be created to be a mock-up for a hotel landing page. This page
 9. Create a 'new' title for the landing page. 
 10. Import all the images that we are being requested for use within the design of the landing page.
 11. Let's begin the project build, start with the: 
-12. Create the opening content for the web page. Start with the navbar.
+12. Create the opening content for the web page. Start with the navbar in the html file.
+13. Begin styling in the css file, start with the navbar. In the header.
+14. Update the html file, update  the navbar content. Continue creating the opening styles for the page.
+15. Complete the styling for the main section of content, the overview styles nothing specific. 
+

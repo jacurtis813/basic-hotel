@@ -22,4 +22,6 @@ This project will be created to be a mock-up for a hotel landing page. This page
 13. Begin styling in the css file, start with the navbar. In the header.
 14. Update the html file, update  the navbar content. Continue creating the opening styles for the page.
 15. Complete the styling for the main section of content, the overview styles nothing specific. 
-
+16. Start where we left on in the project build. Start creating styles for the navbar.
+17. Create the comments for the html file and the css file. keep the items organized.
+18. 

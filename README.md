@@ -8,4 +8,5 @@ This project will be created to be a mock-up for a hotel landing page. This page
 ## Breakdown:
 
 1. Start with creating the readme file and documenting the description for the project build.
-2. 
+2. Create the html file for the project build. Set up the html file, boilerplate.
+3. 

@@ -78,6 +78,10 @@ p {
     color: #333;
 }
 
+.clr {
+    clear: both;
+}
+
 /*navbar styling*/
 #navbar {
     background: #333;
@@ -172,4 +176,11 @@ p {
 
 .box i {
     margin-bottom: 10px;
+}
+
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+
 }

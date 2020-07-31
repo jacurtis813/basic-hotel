@@ -40,4 +40,6 @@ This project will be created to be a mock-up for a hotel landing page. This page
 31. Create the section to hold the content for the 3 seperate columns of content on the main landing page.
 32. Set up the html file. Begin creating styles for the features section. Style each of the columns.
 33. Test and run the current code that we have created for the features section.
-34. 
+34. Set up the footer section for the index html file. Remember how to use the clearfix property.
+35. Complete all styles for the footer section of the project. 
+36. Create all comments for the html and the css file once we have completed. 

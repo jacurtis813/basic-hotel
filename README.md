@@ -32,3 +32,8 @@ This project will be created to be a mock-up for a hotel landing page. This page
 23. Set the styles for the jumbotron. Start with the styles for the h1 and the container holding the content.
 24. Create further styles for the jumbotron section. Create basic style selectors for the jumbotron and apply psuedo selectors.
 25. Test and run all the code that we have created for this section. Save all changes.
+26. Correct the html format layout, create the semantic html elements. Save those changes for the header content.
+27. Create the comments for the new content added within the header section.
+28. Create a new section element to hold the content for the hotel-info within the index.html/ or main page.
+29. Set up all the styles for the background classes that we have set up within the html file and set future classes now as well.
+30. Complete the styles for the jumbotron section. Save all changes. Test and run the code that we have created.

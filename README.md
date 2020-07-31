@@ -24,4 +24,8 @@ This project will be created to be a mock-up for a hotel landing page. This page
 15. Complete the styling for the main section of content, the overview styles nothing specific. 
 16. Start where we left on in the project build. Start creating styles for the navbar.
 17. Create the comments for the html file and the css file. keep the items organized.
-18. 
+18. Set the styles for the unordered list to create the navabar look and feel. Using the float property.
+19. Create further styling for the navbar using the psuedo class selector to give the page minimal interaction at this time.
+20. Set the navbar within another div container, create the class for the element.
+21. Create furthert styling with the navabar to both center the content in the navigation and as well make the page (semi-responsive).
+22. 

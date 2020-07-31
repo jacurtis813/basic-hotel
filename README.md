@@ -42,4 +42,6 @@ This project will be created to be a mock-up for a hotel landing page. This page
 33. Test and run the current code that we have created for the features section.
 34. Set up the footer section for the index html file. Remember how to use the clearfix property.
 35. Complete all styles for the footer section of the project. 
-36. Create all comments for the html and the css file once we have completed. 
+36. Create all comments for the html and the css file once we have completed.
+37. Create the html file for the next page within the project.
+38. Perform the boilerplate set up, copy over most of the original file to begin the next step of the project

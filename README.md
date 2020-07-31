@@ -12,3 +12,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 3. Create the folder to hold all the assets for the project build. 
 4. Create the css folder within the assets folder to hold our stylesheets.
 5. Create the images folder within the assets folder to hold all the images for the project.
+6. Create the stylesheet/ css file within the css folder.
+7. Create the link tag, from the stylesheet in the css folder to the html file/ project.
+8. Save and commit. The project folder should be set up to begin the build.
+

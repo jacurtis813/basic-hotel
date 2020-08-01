@@ -82,6 +82,26 @@ p {
     clear: both;
 }
 
+.py-1 {
+    padding: 10px 0;
+}
+
+.py-2 {
+    padding: 20px 0;
+}
+
+.py-3 {
+    padding: 20px 0;
+}
+
+.m-heading {
+    font-size: 18.5px;
+}
+
+.l-heading {
+    font-size: 40px;
+}
+
 /*navbar styling*/
 #navbar {
     background: #333;
@@ -177,6 +197,7 @@ p {
     display: block;
     margin: auto;
     width: 70%;
+    border-radius: 50%;
 }
 
 #about-info .info-left { 
@@ -188,7 +209,7 @@ p {
 /*features section styling*/
 .box {
     float: left;
-    width: 33%;
+    width: 33.3%;
     padding: 50px;
     text-align: center;
 }
@@ -201,5 +222,4 @@ p {
     text-align: center;
     background: #444;
     color: #fff;
-
 }

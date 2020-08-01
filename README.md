@@ -52,3 +52,10 @@ This project will be created to be a mock-up for a hotel landing page. This page
 43. Set the main content for the about page of the hotel landing site, set the content for the about section and apply the image next to the content. Using the float properties. No flexbox yet.
 44. Once we have the html file structure set for the about page. Begin creating the layout using the css stylesheet. 
 45. Test and run all the code that we have created for the new page and with the new content. All working as designed.
+46. Create the styles to begin creating a fully designed webpage. Start with setting up class selectors to use in the future.
+47. Create the styling for the footer, for the about image and for the about info content. 
+48. Set up the styles like we were going to use a framework, create our own internal framework for our pages. 
+49. Understanding the main use of the clear property. Setting a seperate div to clear after setting a float.
+50. Create the structure for the second section- the testimonial section of the about-page.
+51. Once the file structure has been set for the about page, create the comments within the html file to keep things organized.
+52. Test and run all the code that we have now created. Save all changes.

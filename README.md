@@ -58,4 +58,8 @@ This project will be created to be a mock-up for a hotel landing page. This page
 49. Understanding the main use of the clear property. Setting a seperate div to clear after setting a float.
 50. Create the structure for the second section- the testimonial section of the about-page.
 51. Once the file structure has been set for the about page, create the comments within the html file to keep things organized.
-52. Test and run all the code that we have now created. Save all changes.
+52. Test and run all the code that we have now created. Save all changes. 
+53. Format the html file. Correct the organization of the css file. Keep things fluid. 
+54. Create the styles for the testimonial section. Apply style changes to the images, float the image and the content on the page, and create font style changes to the quote and the title of the section.
+55. Complete the structuring and the styling for the about page of the hotel website. Test and run all the code to show that all components are working as designed.
+56. Save all changes. Before we begin creating the last page of the hotel website landing page, the last page will reference the contact page.

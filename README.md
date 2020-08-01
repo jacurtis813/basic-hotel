@@ -65,4 +65,10 @@ This project will be created to be a mock-up for a hotel landing page. This page
 56. Save all changes. Before we begin creating the last page of the hotel website landing page, the last page will reference the contact page.
 57. Create the last html file that we will need for the project, this will be the contact html file. 
 58. Set up the boilerplate/ the main structure of the file. Connect the fontawesome site to all three html files for the bed icon on the navabar.
-59. 
+59. Create the structure for the heading of the page. Followed by the creating the next section of the contact page.
+60. Within this section we will create a form for our guests to contact us, if they would like, we will need to create labels and input fields. 
+61. Once we have the heading and the opening of the section set within the structure. Structure the form on the page. This will not go anywhere specifically.
+62. Complete the basic structure of the contact form. Once completed with the structure begin the styling of these components.
+63. Apply style to the main heading on the page. Apply the complete style changes to the form section to give the attention to the form as we would like. 
+64. Complete the form section. Test and run the code that we have created. All working as designed. 
+65. 

@@ -71,4 +71,5 @@ This project will be created to be a mock-up for a hotel landing page. This page
 62. Complete the basic structure of the contact form. Once completed with the structure begin the styling of these components.
 63. Apply style to the main heading on the page. Apply the complete style changes to the form section to give the attention to the form as we would like. 
 64. Complete the form section. Test and run the code that we have created. All working as designed. 
-65. 
+65. Begin the structure for the second section of the contact page. This will create the contact information for our guests to contact the hotel.
+66. Complete the styling for the second section of the contact page. Save all changes. 

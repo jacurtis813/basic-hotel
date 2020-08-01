@@ -44,4 +44,8 @@ This project will be created to be a mock-up for a hotel landing page. This page
 35. Complete all styles for the footer section of the project. 
 36. Create all comments for the html and the css file once we have completed.
 37. Create the html file for the next page within the project.
-38. Perform the boilerplate set up, copy over most of the original file to begin the next step of the project
+38. Perform the boilerplate set up, copy over most of the original file to begin the next step of the project.
+39. Pick up where the project legft off. Create the  second html file review. Create the second html file to fit the format of the about page.
+40. Update the meta tags and the link tags within both of the html files that we have created for the project.
+41. Clear all the content that we do not need to reuse within the second html file for the about page of the hotel landing page project.
+42. 

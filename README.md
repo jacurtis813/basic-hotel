@@ -48,4 +48,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 39. Pick up where the project legft off. Create the  second html file review. Create the second html file to fit the format of the about page.
 40. Update the meta tags and the link tags within both of the html files that we have created for the project.
 41. Clear all the content that we do not need to reuse within the second html file for the about page of the hotel landing page project.
-42. 
+42. Let's begin the formatting for the file structure of the about page for the hotel website.
+43. Set the main content for the about page of the hotel landing site, set the content for the about section and apply the image next to the content. Using the float properties. No flexbox yet.
+44. Once we have the html file structure set for the about page. Begin creating the layout using the css stylesheet. 
+45. Test and run all the code that we have created for the new page and with the new content. All working as designed.

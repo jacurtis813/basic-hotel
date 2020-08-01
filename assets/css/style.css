@@ -166,6 +166,25 @@ p {
     padding-bottom: 30px;
 }
 
+/*info section styling*/
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}
+
+#about-info .info-right img {
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
+#about-info .info-left { 
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
+
 /*features section styling*/
 .box {
     float: left;

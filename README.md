@@ -63,3 +63,6 @@ This project will be created to be a mock-up for a hotel landing page. This page
 54. Create the styles for the testimonial section. Apply style changes to the images, float the image and the content on the page, and create font style changes to the quote and the title of the section.
 55. Complete the structuring and the styling for the about page of the hotel website. Test and run all the code to show that all components are working as designed.
 56. Save all changes. Before we begin creating the last page of the hotel website landing page, the last page will reference the contact page.
+57. Create the last html file that we will need for the project, this will be the contact html file. 
+58. Set up the boilerplate/ the main structure of the file. Connect the fontawesome site to all three html files for the bed icon on the navabar.
+59. 

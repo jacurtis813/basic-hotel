@@ -113,7 +113,7 @@ p {
     color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding-top: 20px;
 }
@@ -163,7 +163,7 @@ p {
 
 /*home section styling*/
 #home-info {
-    height: 400px;
+    height: 425px;
 }
 
 #home-info .info-img {

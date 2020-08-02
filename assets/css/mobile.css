@@ -1,0 +1,39 @@
+@media only screen and (max-width: 768px) {
+    /*home page */
+
+    /*navbar styling*/
+    #navbar .logo {
+        float: none;
+        text-align: center;
+    }
+
+    #navbar ul,
+    #navbar ul li {
+        float: none;
+    }
+
+    #navbar ul li a {
+        padding: 5px;
+        border-bottom: #444 dotted 1px;
+    }
+
+    /*home section styling*/
+    #home-info .info-img {
+        display: none;
+    }
+
+    #home-info .info-content {
+        float: none;
+        width: 100%;
+    }
+
+    /*boxes styling*/
+    .box {
+        float: none;
+        width: 100%;
+    }
+
+    /*about page*/
+
+    
+  }

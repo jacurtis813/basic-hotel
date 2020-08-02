@@ -76,3 +76,7 @@ This project will be created to be a mock-up for a hotel landing page. This page
 67. Pick up where we left off in the project build. Complete the overview for the media queries, how to create and how to use them.
 68. Create the second stylesheet within the css folder in the assets folder of the project, this stylesheet will be used to create the media queries for the hotel website.
 69. Create the link tag to link the medistyle stylesheet to our html files. Link to all. Update all. 
+70. Correct the link tags, showing that they are not to be called on unless under the 768px screen size. This allow us to create quicker laod times for the users.
+71. Create the proper formatting for the media queries. Link the re-created css stylesheet for the breakpoints. 
+72. Create the complete list of changes for the home page using media queries to make the adjustments to the hotel website. First page is now responsive. 
+73. 

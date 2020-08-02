@@ -80,3 +80,5 @@ This project will be created to be a mock-up for a hotel landing page. This page
 71. Create the proper formatting for the media queries. Link the re-created css stylesheet for the breakpoints. 
 72. Create the complete list of changes for the home page using media queries to make the adjustments to the hotel website. First page is now responsive. 
 73. Complete the media query styling for both the home page and the about page of the website. Save all changes that we have created. Test and run the code.
+74. Complete all the basic media que styling that we will use to apply per screen sizes. All styles have been set, tested and run to show the breakpoints and the adjustments.
+75. Comment all the new code that we have created within the second stylesheet. Keep the files clean and organized.

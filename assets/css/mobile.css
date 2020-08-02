@@ -48,5 +48,34 @@
         text-align: center;
     }
 
-    
+    /*contct page*/
+
+    /*contact info styling*/
+    #contact-info .box {
+        border-bottom: #444 dotted 1px;
+        
+    }
+  }
+
+  /*smaller screen sizes*/
+  @media only screen and (max-width: 425px) {
+      /*body styling*/
+      body {
+          font-size: 85%;
+      }
+
+      /*showcase section styling*/
+      #showcase .showcase-content {
+          padding-top: 70px;
+          padding-bottom: 30px;
+      }
+
+      .showcase-content .btn {
+          margin-bottom: 45px;
+      }
+
+      /*contact info styling*/
+      #contact-info .box {
+          padding: 20px;
+      }
   }

@@ -79,4 +79,4 @@ This project will be created to be a mock-up for a hotel landing page. This page
 70. Correct the link tags, showing that they are not to be called on unless under the 768px screen size. This allow us to create quicker laod times for the users.
 71. Create the proper formatting for the media queries. Link the re-created css stylesheet for the breakpoints. 
 72. Create the complete list of changes for the home page using media queries to make the adjustments to the hotel website. First page is now responsive. 
-73. 
+73. Complete the media query styling for both the home page and the about page of the website. Save all changes that we have created. Test and run the code.

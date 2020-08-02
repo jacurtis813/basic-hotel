@@ -100,6 +100,7 @@ p {
 
 .l-heading {
     font-size: 40px;
+    line-height: 1.2;
 }
 
 /*navbar styling*/
@@ -220,7 +221,7 @@ p {
 
 /*testimonial section styling*/
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../images/test-bg.jpg') no-repeat center center/cover;
     padding-top: 35px;
 }
